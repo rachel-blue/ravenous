@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## [My Movies](https://rachel-blue.github.io/my-movies/#/)
+## [ravenous](https://rachel-blue.github.io/ravenous/)
 View the webpage on github pages https://rachel-blue.github.io/ravenous/
 This project utilizes the yelp api to search, and view resturants based off of several
 search inputs to narrow results.
